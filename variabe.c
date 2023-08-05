@@ -5,4 +5,4 @@ main()
       printf("sum of %d and %d is %d",a,b,a+b);
       getch();
       }
-/*sum of a and b /*
+/*sum of a and b */
